@@ -1,3 +1,8 @@
+# Download
+For non-programmers: to execute the game, just download the [JAR file above (click here)](https://github.com/jessepf/Centipede_Java/raw/master/Centipede3.jar).
+
+**Some trivial info**: Runs on any platform with JRE/JDK installed.
+
 # About the code
 The app was developed for Game Theory coursework for 1 MA Economics students in Department of Economics, Madras Christian College, in association with Arun Koshy, Assistant Professor, Dept. of Economics, MCC.
 
